@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/T0DO-APP-REACT/static/css/main.b252ac2f.css",
+    "main.js": "/T0DO-APP-REACT/static/js/main.b674e879.js",
+    "index.html": "/T0DO-APP-REACT/index.html",
+    "main.b252ac2f.css.map": "/T0DO-APP-REACT/static/css/main.b252ac2f.css.map",
+    "main.b674e879.js.map": "/T0DO-APP-REACT/static/js/main.b674e879.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b252ac2f.css",
+    "static/js/main.b674e879.js"
+  ]
+}
